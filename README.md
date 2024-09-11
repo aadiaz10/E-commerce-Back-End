@@ -51,5 +51,3 @@ Submit a pull request with a clear description of your changes.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
-For any questions or issues, please contact Your Name.
